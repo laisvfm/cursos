@@ -1,4 +1,4 @@
-# cursos
+### Cursos
 Exercícios, anotações e projetos desenvolvidos durante cursos e treinamentos de programação.
 
 Este repositório reúne projetos, exercícios e anotações feitos durante cursos e treinamentos de programação.
