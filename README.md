@@ -5,10 +5,8 @@ Este repositório reúne projetos, exercícios e anotações feitos durante curs
 
 ## Conteúdo
 
-- **curso-python-alura** → Exercícios e mini-projetos do curso "Python para Iniciantes" (Alura).
-- **curso-sql-alura** → Consultas e scripts desenvolvidos no curso "SQL para Análise de Dados" (Alura).
-- **curso-git-udemy** → Exemplos de uso do Git e GitHub aprendidos na Udemy.
-- **curso-html-css** → Projeto de página responsiva do curso de HTML e CSS (Origamid).
+- **imersao-dados-python-alura**
+- **imersao-python-agentes-ia-alura**
 
 ## Objetivo
 
